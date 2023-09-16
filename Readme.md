@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Addie</title>
     <meta name="description" content="THE DISCORD BOT OF THE YEAR">
     <meta name="theme-color" content="#f54254">
@@ -128,36 +128,7 @@
                             href="https://discords.com/bots/bot/1146975902262112287"
                             style="color: var(--text-color);">Discords.com</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link"
-                            href="https://top.gg/bot/1146975902262112287"
-                            style="color: var(--text-color);">top.gg</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link"
-                            href="https://discord.bots.gg/bots/1146975902262112287"
-                            style="color: var(--text-color);">discord.bots.gg</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link"
-                            href="https://discordbotlist.com/bots/addie"
-                            style="color: var(--text-color);">discordbotlist.com</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link"
-                            href="https://discordlist.gg/bot/1146975902262112287"
-                            style="color: var(--text-color);">discordlist.gg</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link"
-                            href="#"
-                            style="color: var(--text-color);">Invite</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link"
-                            href="#bot-status"
-                            style="color: var(--text-color);">Bot Status</a>
-                    </li>
+                    <!-- Add more navigation items as needed -->
                 </ul>
             </div>
         </div>
@@ -173,28 +144,7 @@
         <h1 class="d-xl-flex justify-content-xl-start"
             style="color: var(--text-color);">Addie</h1>
         <p style="color: var(--secondary-text-color);">A bot for mod and fun!</p>
-        <div class="tada animated">
-            <div role="group" class="btn-group">
-                <a href="https://discord.com/api/oauth2/authorize?client_id=1146975902262112287&permissions=8&scope=bot"
-                    class="btn btn-primary shadow-none"
-                    type="button"
-                    style="margin: 5px; background-color: var(--main-color); border-color: var(--main-color); border-radius: 10px;">Invite
-                    Me</a>
-                <section>
-                    <div class="container text-center">
-                        <h2>Join Our Discord</h2>
-                        <p>Join our Discord server to chat with the community and get the latest updates about our bot!</p>
-                        <a href="https://discord.gg/Wddh4FMPKs"
-                            class="btn btn-primary"
-                            target="_blank">Join Now</a>
-                    </div>
-                </section>
-                <a class="btn btn-primary smoothScroll shadow-none"
-                    role="button"
-                    style="margin: 5px; background-color: var(--main-color); border-color: var(--main-color); border-radius: 10px;"
-                    href="#feature">Features</a>
-            </div>
-        </div>
+        <!-- Add your header content here -->
     </header>
 
     <!-- Bot Features section -->
@@ -212,20 +162,7 @@
                         <p class="description">Our bot is now lightning-fast with reduced latency.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 item">
-                    <div class="box">
-                        <i class="fa fa-shield icon"></i>
-                        <h3 class="name">Secure &amp; Private</h3>
-                        <p class="description">We prioritize your security and privacy.</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 item">
-                    <div class="box">
-                        <i class="fa fa-smile-o icon"></i>
-                        <h3 class="name">User-Friendly</h3>
-                        <p class="description">Our users leave with smiles on their faces!</p>
-                    </div>
-                </div>
+                <!-- Add more bot feature items as needed -->
             </div>
         </div>
     </div>
@@ -239,18 +176,6 @@
                 <div class="icon-box">
                     <i class="fa fa-user-circle icon"></i>
                     <p class="icon-label">User Icon</p>
-                </div>
-                <div class="icon-box">
-                    <i class="fa fa-bolt icon"></i>
-                    <p class="icon-label">Lightning Bolt</p>
-                </div>
-                <div class="icon-box">
-                    <i class="fa fa-heart icon"></i>
-                    <p class="icon-label">Heart</p>
-                </div>
-                <div class="icon-box">
-                    <i class="fa fa-star icon"></i>
-                    <p class="icon-label">Star</p>
                 </div>
                 <!-- Add more icon boxes as needed -->
             </div>
@@ -266,12 +191,7 @@
             <a href="https://www.youtube.com/@ItsAddieBot"
                 target="_blank"
                 class="social-icon"><i class="fa fa-youtube"></i></a>
-            <a href="https://www.tiktok.com/@itsaddiebot"
-                target="_blank"
-                class="social-icon"><i class="fa fa-tiktok"></i></a>
-            <a href="https://twitter.com/ItsAddieBot"
-                target="_blank"
-                class="social-icon"><i class="fa fa-twitter"></i></a>
+            <!-- Add more social media links as needed -->
         </div>
     </section>
 
@@ -305,8 +225,7 @@
     <footer style="background: var(--background); padding: 20px; text-align: center; border-top: 2px solid var(--main-color);">
         <div class="container">
             <p>&copy; 2023 Addie. All rights reserved.</p>
-            <a href="#top"
-                class="btn btn-primary">Back to Top</a>
+            <!-- Add a "Back to Top" button if needed -->
         </div>
     </footer>
 
@@ -339,4 +258,3 @@
 </body>
 
 </html>
-
